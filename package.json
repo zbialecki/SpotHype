@@ -1,0 +1,14 @@
+{
+  "author": "Zach Bialecki <zach.bialecki@gmail.com>",
+  "name": "SpotHype",
+  "description": "Generate Spotify playlists from Hype Machine",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "cookie-parser": "1.3.2",
+    "express": "~4.0.0",
+    "node-hypem": "~0.0.4",
+    "querystring": "~0.2.0",
+    "request": "~2.34.0"
+  }
+}
