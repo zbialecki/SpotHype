@@ -9,6 +9,7 @@
     "express": "4.x",
     "node-hypem": "~0.0.4",
     "querystring": "0.2.x",
+    "random-string": "^0.1.1",
     "request": "2.x.0"
   },
   "devDependencies": {},
