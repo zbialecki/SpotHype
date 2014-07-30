@@ -3,16 +3,21 @@
   "name": "SpotHype",
   "description": "Generate Spotify playlists from Hype Machine",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zbialecki/SpotHype"
+  },
   "main": "app.js",
   "dependencies": {
     "cookie-parser": "1.3.2",
     "express": "4.x",
     "node-hypem": "~0.0.4",
-    "querystring": "0.2.x",
     "random-string": "^0.1.1",
     "request": "2.x.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.6"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
